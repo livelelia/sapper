@@ -15,8 +15,6 @@ The design for this app promises to:
 
 Simply go to [releases](https://github.com/hiwumo/sapper/releases) and download the latest version! Currently only Windows 10/11 is supported.
 
-**Latest version right now**: [v0.4.0](https://github.com/hiwumo/sapper/releases/download/v0.4.0/sapper_0.4.0_x64-setup.exe)
-
 ## Usage
 
 > [!NOTE] 
